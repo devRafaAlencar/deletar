@@ -1,7 +1,15 @@
+@Entity
 class Alunos{
 
+ 
 
+	public void Cadastar_Master{
+	return cadastrado;
 
+	public void DarNota_Master{
+        return cadastrado;
+        }
 
+	}
 }
 
