@@ -1,9 +1,17 @@
+@Entity
 class Alunos{
-	
-	private int id;
+	@Id @GeneratedValue
 	private String nome;
+ 
 
 
+	public void Cadastar_Master{
+	return cadastrado;}
 
-}
+	public void DarNota_Master{
+        return cadastrado;
+        }
+
+	}
+
 	
